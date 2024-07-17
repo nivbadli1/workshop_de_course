@@ -1,0 +1,6 @@
+2024-07-17 08:00:00 INFO: Application started
+2024-07-17 08:00:05 DEBUG: Processing request A
+2024-07-17 08:01:12 WARNING: Invalid input received
+2024-07-17 08:02:30 ERROR: Database connection failed
+2024-07-17 08:03:45 INFO: User login successful
+...
